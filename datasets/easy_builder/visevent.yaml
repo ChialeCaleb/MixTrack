@@ -1,0 +1,6 @@
+datasets:
+  visevent:
+    type: SOT
+    splits:
+      - train
+      - test
